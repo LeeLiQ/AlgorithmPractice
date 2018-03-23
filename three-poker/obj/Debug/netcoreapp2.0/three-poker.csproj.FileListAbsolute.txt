@@ -1,0 +1,10 @@
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/three-poker/bin/Debug/netcoreapp2.0/three-poker.deps.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/three-poker/bin/Debug/netcoreapp2.0/three-poker.runtimeconfig.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/three-poker/bin/Debug/netcoreapp2.0/three-poker.runtimeconfig.dev.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/three-poker/bin/Debug/netcoreapp2.0/three-poker.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/three-poker/bin/Debug/netcoreapp2.0/three-poker.pdb
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/three-poker/obj/Debug/netcoreapp2.0/three-poker.csproj.CoreCompileInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/three-poker/obj/Debug/netcoreapp2.0/three-poker.AssemblyInfoInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/three-poker/obj/Debug/netcoreapp2.0/three-poker.AssemblyInfo.cs
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/three-poker/obj/Debug/netcoreapp2.0/three-poker.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/three-poker/obj/Debug/netcoreapp2.0/three-poker.pdb

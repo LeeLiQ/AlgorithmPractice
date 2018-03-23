@@ -1,0 +1,10 @@
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/match-equation/bin/Debug/netcoreapp2.0/match-equation.deps.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/match-equation/bin/Debug/netcoreapp2.0/match-equation.runtimeconfig.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/match-equation/bin/Debug/netcoreapp2.0/match-equation.runtimeconfig.dev.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/match-equation/bin/Debug/netcoreapp2.0/match-equation.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/match-equation/bin/Debug/netcoreapp2.0/match-equation.pdb
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/match-equation/obj/Debug/netcoreapp2.0/match-equation.csproj.CoreCompileInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/match-equation/obj/Debug/netcoreapp2.0/match-equation.AssemblyInfoInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/match-equation/obj/Debug/netcoreapp2.0/match-equation.AssemblyInfo.cs
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/match-equation/obj/Debug/netcoreapp2.0/match-equation.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/match-equation/obj/Debug/netcoreapp2.0/match-equation.pdb

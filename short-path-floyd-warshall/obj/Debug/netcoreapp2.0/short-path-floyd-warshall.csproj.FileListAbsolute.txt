@@ -1,0 +1,10 @@
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/short-path-floyd-warshall/bin/Debug/netcoreapp2.0/short-path-floyd-warshall.deps.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/short-path-floyd-warshall/bin/Debug/netcoreapp2.0/short-path-floyd-warshall.runtimeconfig.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/short-path-floyd-warshall/bin/Debug/netcoreapp2.0/short-path-floyd-warshall.runtimeconfig.dev.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/short-path-floyd-warshall/bin/Debug/netcoreapp2.0/short-path-floyd-warshall.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/short-path-floyd-warshall/bin/Debug/netcoreapp2.0/short-path-floyd-warshall.pdb
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/short-path-floyd-warshall/obj/Debug/netcoreapp2.0/short-path-floyd-warshall.csproj.CoreCompileInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/short-path-floyd-warshall/obj/Debug/netcoreapp2.0/short-path-floyd-warshall.AssemblyInfoInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/short-path-floyd-warshall/obj/Debug/netcoreapp2.0/short-path-floyd-warshall.AssemblyInfo.cs
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/short-path-floyd-warshall/obj/Debug/netcoreapp2.0/short-path-floyd-warshall.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/short-path-floyd-warshall/obj/Debug/netcoreapp2.0/short-path-floyd-warshall.pdb

@@ -1,0 +1,10 @@
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/simple-dfs/bin/Debug/netcoreapp2.0/simple-dfs.deps.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/simple-dfs/bin/Debug/netcoreapp2.0/simple-dfs.runtimeconfig.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/simple-dfs/bin/Debug/netcoreapp2.0/simple-dfs.runtimeconfig.dev.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/simple-dfs/bin/Debug/netcoreapp2.0/simple-dfs.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/simple-dfs/bin/Debug/netcoreapp2.0/simple-dfs.pdb
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/simple-dfs/obj/Debug/netcoreapp2.0/simple-dfs.csproj.CoreCompileInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/simple-dfs/obj/Debug/netcoreapp2.0/simple-dfs.AssemblyInfoInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/simple-dfs/obj/Debug/netcoreapp2.0/simple-dfs.AssemblyInfo.cs
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/simple-dfs/obj/Debug/netcoreapp2.0/simple-dfs.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/simple-dfs/obj/Debug/netcoreapp2.0/simple-dfs.pdb

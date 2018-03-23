@@ -1,0 +1,10 @@
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/shortest-path-to-city/bin/Debug/netcoreapp2.0/shortest-path-to-city.deps.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/shortest-path-to-city/bin/Debug/netcoreapp2.0/shortest-path-to-city.runtimeconfig.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/shortest-path-to-city/bin/Debug/netcoreapp2.0/shortest-path-to-city.runtimeconfig.dev.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/shortest-path-to-city/bin/Debug/netcoreapp2.0/shortest-path-to-city.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/shortest-path-to-city/bin/Debug/netcoreapp2.0/shortest-path-to-city.pdb
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/shortest-path-to-city/obj/Debug/netcoreapp2.0/shortest-path-to-city.csproj.CoreCompileInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/shortest-path-to-city/obj/Debug/netcoreapp2.0/shortest-path-to-city.AssemblyInfoInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/shortest-path-to-city/obj/Debug/netcoreapp2.0/shortest-path-to-city.AssemblyInfo.cs
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/shortest-path-to-city/obj/Debug/netcoreapp2.0/shortest-path-to-city.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/shortest-path-to-city/obj/Debug/netcoreapp2.0/shortest-path-to-city.pdb

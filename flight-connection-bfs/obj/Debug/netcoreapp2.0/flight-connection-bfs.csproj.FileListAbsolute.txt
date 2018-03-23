@@ -1,0 +1,10 @@
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/flight-connection-bfs/bin/Debug/netcoreapp2.0/flight-connection-bfs.deps.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/flight-connection-bfs/bin/Debug/netcoreapp2.0/flight-connection-bfs.runtimeconfig.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/flight-connection-bfs/bin/Debug/netcoreapp2.0/flight-connection-bfs.runtimeconfig.dev.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/flight-connection-bfs/bin/Debug/netcoreapp2.0/flight-connection-bfs.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/flight-connection-bfs/bin/Debug/netcoreapp2.0/flight-connection-bfs.pdb
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/flight-connection-bfs/obj/Debug/netcoreapp2.0/flight-connection-bfs.csproj.CoreCompileInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/flight-connection-bfs/obj/Debug/netcoreapp2.0/flight-connection-bfs.AssemblyInfoInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/flight-connection-bfs/obj/Debug/netcoreapp2.0/flight-connection-bfs.AssemblyInfo.cs
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/flight-connection-bfs/obj/Debug/netcoreapp2.0/flight-connection-bfs.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/flight-connection-bfs/obj/Debug/netcoreapp2.0/flight-connection-bfs.pdb

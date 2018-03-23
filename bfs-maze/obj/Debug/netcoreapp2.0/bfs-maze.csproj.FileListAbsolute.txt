@@ -1,0 +1,10 @@
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/bfs-maze/bin/Debug/netcoreapp2.0/bfs-maze.deps.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/bfs-maze/bin/Debug/netcoreapp2.0/bfs-maze.runtimeconfig.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/bfs-maze/bin/Debug/netcoreapp2.0/bfs-maze.runtimeconfig.dev.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/bfs-maze/bin/Debug/netcoreapp2.0/bfs-maze.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/bfs-maze/bin/Debug/netcoreapp2.0/bfs-maze.pdb
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/bfs-maze/obj/Debug/netcoreapp2.0/bfs-maze.csproj.CoreCompileInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/bfs-maze/obj/Debug/netcoreapp2.0/bfs-maze.AssemblyInfoInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/bfs-maze/obj/Debug/netcoreapp2.0/bfs-maze.AssemblyInfo.cs
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/bfs-maze/obj/Debug/netcoreapp2.0/bfs-maze.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/bfs-maze/obj/Debug/netcoreapp2.0/bfs-maze.pdb

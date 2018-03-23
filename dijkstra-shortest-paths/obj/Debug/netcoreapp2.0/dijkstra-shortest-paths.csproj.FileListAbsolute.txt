@@ -1,0 +1,10 @@
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/dijkstra-shortest-paths/bin/Debug/netcoreapp2.0/dijkstra-shortest-paths.deps.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/dijkstra-shortest-paths/bin/Debug/netcoreapp2.0/dijkstra-shortest-paths.runtimeconfig.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/dijkstra-shortest-paths/bin/Debug/netcoreapp2.0/dijkstra-shortest-paths.runtimeconfig.dev.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/dijkstra-shortest-paths/bin/Debug/netcoreapp2.0/dijkstra-shortest-paths.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/dijkstra-shortest-paths/bin/Debug/netcoreapp2.0/dijkstra-shortest-paths.pdb
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/dijkstra-shortest-paths/obj/Debug/netcoreapp2.0/dijkstra-shortest-paths.csproj.CoreCompileInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/dijkstra-shortest-paths/obj/Debug/netcoreapp2.0/dijkstra-shortest-paths.AssemblyInfoInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/dijkstra-shortest-paths/obj/Debug/netcoreapp2.0/dijkstra-shortest-paths.AssemblyInfo.cs
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/dijkstra-shortest-paths/obj/Debug/netcoreapp2.0/dijkstra-shortest-paths.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/dijkstra-shortest-paths/obj/Debug/netcoreapp2.0/dijkstra-shortest-paths.pdb
