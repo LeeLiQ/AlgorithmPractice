@@ -37,14 +37,14 @@ namespace dijkstra_shortest_paths
                 {
                     if (book[j] == 0 && dis[j] < min)
                     {
-                        min = dis[j];
-                        u = j;
+                        min = dis[j]; // find the closest distance
+                        u = j; // record the point identifier
                     }
                 }
                 book[u] = 1;
-                for (var v = 1; v < 6; v++)
-                    if (map[u, v] < mx)
-                        if (dis[v] > dis[u] + map[u, v])
+                for (var v = 0; v < 6; v++)
+                    if (map[u, v] < mx) // if there is a way
+                        if (dis[v] > dis[u] + map[u, v]) // if the distance between the starting point and v is greater than start->u+u->v
                             dis[v] = dis[u] + map[u, v];
             }
             for (var i = 0; i < 6; i++)
