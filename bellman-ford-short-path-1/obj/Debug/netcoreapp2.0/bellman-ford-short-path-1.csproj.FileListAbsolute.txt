@@ -1,0 +1,10 @@
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/bellman-ford-short-path-1/bin/Debug/netcoreapp2.0/bellman-ford-short-path-1.deps.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/bellman-ford-short-path-1/bin/Debug/netcoreapp2.0/bellman-ford-short-path-1.runtimeconfig.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/bellman-ford-short-path-1/bin/Debug/netcoreapp2.0/bellman-ford-short-path-1.runtimeconfig.dev.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/bellman-ford-short-path-1/bin/Debug/netcoreapp2.0/bellman-ford-short-path-1.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/bellman-ford-short-path-1/bin/Debug/netcoreapp2.0/bellman-ford-short-path-1.pdb
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/bellman-ford-short-path-1/obj/Debug/netcoreapp2.0/bellman-ford-short-path-1.csproj.CoreCompileInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/bellman-ford-short-path-1/obj/Debug/netcoreapp2.0/bellman-ford-short-path-1.AssemblyInfoInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/bellman-ford-short-path-1/obj/Debug/netcoreapp2.0/bellman-ford-short-path-1.AssemblyInfo.cs
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/bellman-ford-short-path-1/obj/Debug/netcoreapp2.0/bellman-ford-short-path-1.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/bellman-ford-short-path-1/obj/Debug/netcoreapp2.0/bellman-ford-short-path-1.pdb
