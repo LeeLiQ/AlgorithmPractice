@@ -1,0 +1,10 @@
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/fast-find-union/bin/Debug/netcoreapp2.0/fast-find-union.deps.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/fast-find-union/bin/Debug/netcoreapp2.0/fast-find-union.runtimeconfig.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/fast-find-union/bin/Debug/netcoreapp2.0/fast-find-union.runtimeconfig.dev.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/fast-find-union/bin/Debug/netcoreapp2.0/fast-find-union.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/fast-find-union/bin/Debug/netcoreapp2.0/fast-find-union.pdb
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/fast-find-union/obj/Debug/netcoreapp2.0/fast-find-union.csproj.CoreCompileInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/fast-find-union/obj/Debug/netcoreapp2.0/fast-find-union.AssemblyInfoInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/fast-find-union/obj/Debug/netcoreapp2.0/fast-find-union.AssemblyInfo.cs
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/fast-find-union/obj/Debug/netcoreapp2.0/fast-find-union.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/fast-find-union/obj/Debug/netcoreapp2.0/fast-find-union.pdb
