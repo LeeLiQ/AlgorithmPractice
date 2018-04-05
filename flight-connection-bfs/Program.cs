@@ -9,20 +9,20 @@ namespace flight_connection_bfs
         {
             var mx = Int32.MaxValue;
             var map = new int[5, 5]
-            // {
-            //     {0,1,1,mx,mx},
-            //     {1,0,1,1,mx},
-            //     {1,1,0,1,1},
-            //     {mx,1,1,0,1},
-            //     {mx,mx,1,1,0}
-            // };
             {
-                {0,1,mx,mx,mx},
-                {1,0,1,mx,mx},
-                {mx,1,0,1,mx},
-                {mx,mx,1,0,1},
-                {mx,mx,mx,1,0}
-            }; // I made it no connection at all. Have to go through 0->1->2->3->4
+                {0,1,1,mx,mx},
+                {1,0,1,1,mx},
+                {1,1,0,1,1},
+                {mx,1,1,0,1},
+                {mx,mx,1,1,0}
+            };
+            // {
+            //     {0,1,mx,mx,mx},
+            //     {1,0,1,mx,mx},
+            //     {mx,1,0,1,mx},
+            //     {mx,mx,1,0,1},
+            //     {mx,mx,mx,1,0}
+            // }; // I made it no connection at all. Have to go through 0->1->2->3->4
 
             var que = new Queue<Note>();
             var head = new Note { X = 0, step = 0 };
@@ -43,7 +43,7 @@ namespace flight_connection_bfs
                         book[j] = 1;
                     }
                 }
-                if (node.X == 4) // code is not working!!!!!!!
+                if (node.X == 4)
                 {
                     flag = true;
                     end = node;
