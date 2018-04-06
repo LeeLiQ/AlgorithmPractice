@@ -29,7 +29,7 @@ namespace dijkstra_shortest_paths
             book[0] = 1;
             var u = 0;
             //Dijkstra algorithm core section
-            for (var i = 0; i < (6 - 1); i++) // no need to deal with the last point.
+            for (var i = 0; i < (6 - 1); i++) // this means length - 1 times of iteration.
             {
                 //find the closest point next to the starting point.
                 long min = mx;
