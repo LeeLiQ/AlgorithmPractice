@@ -1,0 +1,10 @@
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/find-father/obj/Debug/netcoreapp2.0/find-father.csproj.CoreCompileInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/find-father/obj/Debug/netcoreapp2.0/find-father.AssemblyInfoInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/find-father/obj/Debug/netcoreapp2.0/find-father.AssemblyInfo.cs
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/find-father/bin/Debug/netcoreapp2.0/find-father.deps.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/find-father/bin/Debug/netcoreapp2.0/find-father.runtimeconfig.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/find-father/bin/Debug/netcoreapp2.0/find-father.runtimeconfig.dev.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/find-father/bin/Debug/netcoreapp2.0/find-father.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/find-father/bin/Debug/netcoreapp2.0/find-father.pdb
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/find-father/obj/Debug/netcoreapp2.0/find-father.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/find-father/obj/Debug/netcoreapp2.0/find-father.pdb
