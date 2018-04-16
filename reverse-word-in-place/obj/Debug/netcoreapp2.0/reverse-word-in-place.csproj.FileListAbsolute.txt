@@ -1,0 +1,10 @@
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/reverse-word-in-place/bin/Debug/netcoreapp2.0/reverse-word-in-place.deps.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/reverse-word-in-place/bin/Debug/netcoreapp2.0/reverse-word-in-place.runtimeconfig.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/reverse-word-in-place/bin/Debug/netcoreapp2.0/reverse-word-in-place.runtimeconfig.dev.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/reverse-word-in-place/bin/Debug/netcoreapp2.0/reverse-word-in-place.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/reverse-word-in-place/bin/Debug/netcoreapp2.0/reverse-word-in-place.pdb
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/reverse-word-in-place/obj/Debug/netcoreapp2.0/reverse-word-in-place.csproj.CoreCompileInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/reverse-word-in-place/obj/Debug/netcoreapp2.0/reverse-word-in-place.AssemblyInfoInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/reverse-word-in-place/obj/Debug/netcoreapp2.0/reverse-word-in-place.AssemblyInfo.cs
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/reverse-word-in-place/obj/Debug/netcoreapp2.0/reverse-word-in-place.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/reverse-word-in-place/obj/Debug/netcoreapp2.0/reverse-word-in-place.pdb

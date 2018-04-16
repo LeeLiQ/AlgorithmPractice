@@ -1,0 +1,10 @@
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/pure-junk/bin/Debug/netcoreapp2.0/pure-junk.deps.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/pure-junk/bin/Debug/netcoreapp2.0/pure-junk.runtimeconfig.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/pure-junk/bin/Debug/netcoreapp2.0/pure-junk.runtimeconfig.dev.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/pure-junk/bin/Debug/netcoreapp2.0/pure-junk.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/pure-junk/bin/Debug/netcoreapp2.0/pure-junk.pdb
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/pure-junk/obj/Debug/netcoreapp2.0/pure-junk.csproj.CoreCompileInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/pure-junk/obj/Debug/netcoreapp2.0/pure-junk.AssemblyInfoInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/pure-junk/obj/Debug/netcoreapp2.0/pure-junk.AssemblyInfo.cs
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/pure-junk/obj/Debug/netcoreapp2.0/pure-junk.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/pure-junk/obj/Debug/netcoreapp2.0/pure-junk.pdb
