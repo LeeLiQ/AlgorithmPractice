@@ -1,0 +1,10 @@
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/three-sum-closet/bin/Debug/netcoreapp2.0/three-sum-closet.deps.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/three-sum-closet/bin/Debug/netcoreapp2.0/three-sum-closet.runtimeconfig.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/three-sum-closet/bin/Debug/netcoreapp2.0/three-sum-closet.runtimeconfig.dev.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/three-sum-closet/bin/Debug/netcoreapp2.0/three-sum-closet.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/three-sum-closet/bin/Debug/netcoreapp2.0/three-sum-closet.pdb
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/three-sum-closet/obj/Debug/netcoreapp2.0/three-sum-closet.csproj.CoreCompileInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/three-sum-closet/obj/Debug/netcoreapp2.0/three-sum-closet.AssemblyInfoInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/three-sum-closet/obj/Debug/netcoreapp2.0/three-sum-closet.AssemblyInfo.cs
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/three-sum-closet/obj/Debug/netcoreapp2.0/three-sum-closet.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/three-sum-closet/obj/Debug/netcoreapp2.0/three-sum-closet.pdb

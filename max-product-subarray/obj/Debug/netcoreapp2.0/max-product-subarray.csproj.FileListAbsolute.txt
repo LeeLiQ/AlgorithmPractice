@@ -1,0 +1,10 @@
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/max-product-subarray/bin/Debug/netcoreapp2.0/max-product-subarray.deps.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/max-product-subarray/bin/Debug/netcoreapp2.0/max-product-subarray.runtimeconfig.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/max-product-subarray/bin/Debug/netcoreapp2.0/max-product-subarray.runtimeconfig.dev.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/max-product-subarray/bin/Debug/netcoreapp2.0/max-product-subarray.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/max-product-subarray/bin/Debug/netcoreapp2.0/max-product-subarray.pdb
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/max-product-subarray/obj/Debug/netcoreapp2.0/max-product-subarray.csproj.CoreCompileInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/max-product-subarray/obj/Debug/netcoreapp2.0/max-product-subarray.AssemblyInfoInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/max-product-subarray/obj/Debug/netcoreapp2.0/max-product-subarray.AssemblyInfo.cs
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/max-product-subarray/obj/Debug/netcoreapp2.0/max-product-subarray.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/max-product-subarray/obj/Debug/netcoreapp2.0/max-product-subarray.pdb

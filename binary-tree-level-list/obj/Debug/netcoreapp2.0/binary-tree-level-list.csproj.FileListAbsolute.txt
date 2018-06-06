@@ -1,0 +1,11 @@
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/binary-tree-level-list/bin/Debug/netcoreapp2.0/binary-tree-level-list.deps.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/binary-tree-level-list/bin/Debug/netcoreapp2.0/binary-tree-level-list.runtimeconfig.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/binary-tree-level-list/bin/Debug/netcoreapp2.0/binary-tree-level-list.runtimeconfig.dev.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/binary-tree-level-list/bin/Debug/netcoreapp2.0/binary-tree-level-list.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/binary-tree-level-list/bin/Debug/netcoreapp2.0/binary-tree-level-list.pdb
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/binary-tree-level-list/obj/Debug/netcoreapp2.0/binary-tree-level-list.csprojResolveAssemblyReference.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/binary-tree-level-list/obj/Debug/netcoreapp2.0/binary-tree-level-list.csproj.CoreCompileInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/binary-tree-level-list/obj/Debug/netcoreapp2.0/binary-tree-level-list.AssemblyInfoInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/binary-tree-level-list/obj/Debug/netcoreapp2.0/binary-tree-level-list.AssemblyInfo.cs
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/binary-tree-level-list/obj/Debug/netcoreapp2.0/binary-tree-level-list.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/binary-tree-level-list/obj/Debug/netcoreapp2.0/binary-tree-level-list.pdb
