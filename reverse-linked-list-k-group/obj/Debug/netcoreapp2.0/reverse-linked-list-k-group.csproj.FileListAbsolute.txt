@@ -1,0 +1,11 @@
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/reverse-linked-list-k-group/bin/Debug/netcoreapp2.0/reverse-linked-list-k-group.deps.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/reverse-linked-list-k-group/bin/Debug/netcoreapp2.0/reverse-linked-list-k-group.runtimeconfig.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/reverse-linked-list-k-group/bin/Debug/netcoreapp2.0/reverse-linked-list-k-group.runtimeconfig.dev.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/reverse-linked-list-k-group/bin/Debug/netcoreapp2.0/reverse-linked-list-k-group.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/reverse-linked-list-k-group/bin/Debug/netcoreapp2.0/reverse-linked-list-k-group.pdb
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/reverse-linked-list-k-group/obj/Debug/netcoreapp2.0/reverse-linked-list-k-group.csprojResolveAssemblyReference.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/reverse-linked-list-k-group/obj/Debug/netcoreapp2.0/reverse-linked-list-k-group.csproj.CoreCompileInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/reverse-linked-list-k-group/obj/Debug/netcoreapp2.0/reverse-linked-list-k-group.AssemblyInfoInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/reverse-linked-list-k-group/obj/Debug/netcoreapp2.0/reverse-linked-list-k-group.AssemblyInfo.cs
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/reverse-linked-list-k-group/obj/Debug/netcoreapp2.0/reverse-linked-list-k-group.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/reverse-linked-list-k-group/obj/Debug/netcoreapp2.0/reverse-linked-list-k-group.pdb
