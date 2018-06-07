@@ -11,7 +11,7 @@ namespace reverse_linked_list_k_group
             head.next.next = new ListNode(3);
             head.next.next.next = new ListNode(4);
             head.next.next.next.next = new ListNode(5);
-            var result = ReverseKGroup(head, 5);
+            var result = ReverseKGroup(head, 2);
 
             while (result != null)
             {
