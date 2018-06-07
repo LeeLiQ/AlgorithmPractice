@@ -32,8 +32,11 @@ namespace reverse_linked_list_k_group
                 node = node.next;
                 count++;
             }
+            //up to this point, if there are less than k nodes left, do nothing;
+            // if there are enough nodes, count == k
 
             var pre = ReverseKGroup(node, k);
+            // pre is now pointing to the first node right to the k range
             while (count > 0)
             {
                 var next = head.next;
@@ -42,6 +45,7 @@ namespace reverse_linked_list_k_group
                 head = next;
                 count--;
             }
+
             return pre;
         }
     }
