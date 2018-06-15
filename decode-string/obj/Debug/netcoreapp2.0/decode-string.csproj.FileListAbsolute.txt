@@ -1,0 +1,11 @@
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/decode-string/bin/Debug/netcoreapp2.0/decode-string.deps.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/decode-string/bin/Debug/netcoreapp2.0/decode-string.runtimeconfig.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/decode-string/bin/Debug/netcoreapp2.0/decode-string.runtimeconfig.dev.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/decode-string/bin/Debug/netcoreapp2.0/decode-string.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/decode-string/bin/Debug/netcoreapp2.0/decode-string.pdb
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/decode-string/obj/Debug/netcoreapp2.0/decode-string.csprojResolveAssemblyReference.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/decode-string/obj/Debug/netcoreapp2.0/decode-string.csproj.CoreCompileInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/decode-string/obj/Debug/netcoreapp2.0/decode-string.AssemblyInfoInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/decode-string/obj/Debug/netcoreapp2.0/decode-string.AssemblyInfo.cs
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/decode-string/obj/Debug/netcoreapp2.0/decode-string.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/decode-string/obj/Debug/netcoreapp2.0/decode-string.pdb

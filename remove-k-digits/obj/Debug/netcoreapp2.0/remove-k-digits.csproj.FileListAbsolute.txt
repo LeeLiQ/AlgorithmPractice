@@ -1,0 +1,11 @@
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/remove-k-digits/bin/Debug/netcoreapp2.0/remove-k-digits.deps.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/remove-k-digits/bin/Debug/netcoreapp2.0/remove-k-digits.runtimeconfig.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/remove-k-digits/bin/Debug/netcoreapp2.0/remove-k-digits.runtimeconfig.dev.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/remove-k-digits/bin/Debug/netcoreapp2.0/remove-k-digits.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/remove-k-digits/bin/Debug/netcoreapp2.0/remove-k-digits.pdb
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/remove-k-digits/obj/Debug/netcoreapp2.0/remove-k-digits.csprojResolveAssemblyReference.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/remove-k-digits/obj/Debug/netcoreapp2.0/remove-k-digits.csproj.CoreCompileInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/remove-k-digits/obj/Debug/netcoreapp2.0/remove-k-digits.AssemblyInfoInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/remove-k-digits/obj/Debug/netcoreapp2.0/remove-k-digits.AssemblyInfo.cs
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/remove-k-digits/obj/Debug/netcoreapp2.0/remove-k-digits.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/remove-k-digits/obj/Debug/netcoreapp2.0/remove-k-digits.pdb

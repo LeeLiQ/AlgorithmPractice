@@ -21,17 +21,17 @@ namespace DegenerateBST
 
         public static TreeNode DegenerateBST(TreeNode root)
         {
-            var node  = root;
+            var node = root;
             TreeNode parent = null, newRoot = null;
-            while(node != null)
+            while (node != null)
             {
-                while(node.left != null)
+                while (node.left != null)
                 {
-                    node.rotateNode(node);
-                    if(parent != null)
+                    rotateNode(node);
+                    if (parent != null)
                         parent.right = node;
                 }
-                if(newRoot == null)
+                if (newRoot == null)
                     newRoot = node;
                 parent = node;
                 node = node.right;

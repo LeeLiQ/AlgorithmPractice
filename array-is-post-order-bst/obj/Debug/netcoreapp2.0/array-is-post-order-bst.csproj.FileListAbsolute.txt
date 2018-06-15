@@ -1,0 +1,11 @@
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/array-is-post-order-bst/bin/Debug/netcoreapp2.0/array-is-post-order-bst.deps.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/array-is-post-order-bst/bin/Debug/netcoreapp2.0/array-is-post-order-bst.runtimeconfig.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/array-is-post-order-bst/bin/Debug/netcoreapp2.0/array-is-post-order-bst.runtimeconfig.dev.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/array-is-post-order-bst/bin/Debug/netcoreapp2.0/array-is-post-order-bst.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/array-is-post-order-bst/bin/Debug/netcoreapp2.0/array-is-post-order-bst.pdb
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/array-is-post-order-bst/obj/Debug/netcoreapp2.0/array-is-post-order-bst.csprojResolveAssemblyReference.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/array-is-post-order-bst/obj/Debug/netcoreapp2.0/array-is-post-order-bst.csproj.CoreCompileInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/array-is-post-order-bst/obj/Debug/netcoreapp2.0/array-is-post-order-bst.AssemblyInfoInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/array-is-post-order-bst/obj/Debug/netcoreapp2.0/array-is-post-order-bst.AssemblyInfo.cs
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/array-is-post-order-bst/obj/Debug/netcoreapp2.0/array-is-post-order-bst.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/array-is-post-order-bst/obj/Debug/netcoreapp2.0/array-is-post-order-bst.pdb
