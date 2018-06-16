@@ -1,0 +1,11 @@
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/lowest-common-ancestor/bin/Debug/netcoreapp2.0/lowest-common-ancestor.deps.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/lowest-common-ancestor/bin/Debug/netcoreapp2.0/lowest-common-ancestor.runtimeconfig.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/lowest-common-ancestor/bin/Debug/netcoreapp2.0/lowest-common-ancestor.runtimeconfig.dev.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/lowest-common-ancestor/bin/Debug/netcoreapp2.0/lowest-common-ancestor.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/lowest-common-ancestor/bin/Debug/netcoreapp2.0/lowest-common-ancestor.pdb
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/lowest-common-ancestor/obj/Debug/netcoreapp2.0/lowest-common-ancestor.csprojResolveAssemblyReference.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/lowest-common-ancestor/obj/Debug/netcoreapp2.0/lowest-common-ancestor.csproj.CoreCompileInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/lowest-common-ancestor/obj/Debug/netcoreapp2.0/lowest-common-ancestor.AssemblyInfoInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/lowest-common-ancestor/obj/Debug/netcoreapp2.0/lowest-common-ancestor.AssemblyInfo.cs
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/lowest-common-ancestor/obj/Debug/netcoreapp2.0/lowest-common-ancestor.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/lowest-common-ancestor/obj/Debug/netcoreapp2.0/lowest-common-ancestor.pdb
