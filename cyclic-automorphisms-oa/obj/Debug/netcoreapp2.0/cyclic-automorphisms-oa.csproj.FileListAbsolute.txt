@@ -1,0 +1,11 @@
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/cyclic-automorphisms-oa/bin/Debug/netcoreapp2.0/cyclic-automorphisms-oa.deps.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/cyclic-automorphisms-oa/bin/Debug/netcoreapp2.0/cyclic-automorphisms-oa.runtimeconfig.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/cyclic-automorphisms-oa/bin/Debug/netcoreapp2.0/cyclic-automorphisms-oa.runtimeconfig.dev.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/cyclic-automorphisms-oa/bin/Debug/netcoreapp2.0/cyclic-automorphisms-oa.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/cyclic-automorphisms-oa/bin/Debug/netcoreapp2.0/cyclic-automorphisms-oa.pdb
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/cyclic-automorphisms-oa/obj/Debug/netcoreapp2.0/cyclic-automorphisms-oa.csprojResolveAssemblyReference.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/cyclic-automorphisms-oa/obj/Debug/netcoreapp2.0/cyclic-automorphisms-oa.csproj.CoreCompileInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/cyclic-automorphisms-oa/obj/Debug/netcoreapp2.0/cyclic-automorphisms-oa.AssemblyInfoInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/cyclic-automorphisms-oa/obj/Debug/netcoreapp2.0/cyclic-automorphisms-oa.AssemblyInfo.cs
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/cyclic-automorphisms-oa/obj/Debug/netcoreapp2.0/cyclic-automorphisms-oa.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/cyclic-automorphisms-oa/obj/Debug/netcoreapp2.0/cyclic-automorphisms-oa.pdb

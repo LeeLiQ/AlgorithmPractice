@@ -8,3 +8,4 @@
 /Users/qianli/Documents/VsProjects/Algorithms-From-PPT/islands-search/obj/Debug/netcoreapp2.0/islands-search.AssemblyInfo.cs
 /Users/qianli/Documents/VsProjects/Algorithms-From-PPT/islands-search/obj/Debug/netcoreapp2.0/islands-search.dll
 /Users/qianli/Documents/VsProjects/Algorithms-From-PPT/islands-search/obj/Debug/netcoreapp2.0/islands-search.pdb
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/islands-search/obj/Debug/netcoreapp2.0/islands-search.csprojResolveAssemblyReference.cache

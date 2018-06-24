@@ -1,0 +1,11 @@
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/integer-reduction-count-oa/bin/Debug/netcoreapp2.0/integer-reduction-count-oa.deps.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/integer-reduction-count-oa/bin/Debug/netcoreapp2.0/integer-reduction-count-oa.runtimeconfig.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/integer-reduction-count-oa/bin/Debug/netcoreapp2.0/integer-reduction-count-oa.runtimeconfig.dev.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/integer-reduction-count-oa/bin/Debug/netcoreapp2.0/integer-reduction-count-oa.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/integer-reduction-count-oa/bin/Debug/netcoreapp2.0/integer-reduction-count-oa.pdb
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/integer-reduction-count-oa/obj/Debug/netcoreapp2.0/integer-reduction-count-oa.csprojResolveAssemblyReference.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/integer-reduction-count-oa/obj/Debug/netcoreapp2.0/integer-reduction-count-oa.csproj.CoreCompileInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/integer-reduction-count-oa/obj/Debug/netcoreapp2.0/integer-reduction-count-oa.AssemblyInfoInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/integer-reduction-count-oa/obj/Debug/netcoreapp2.0/integer-reduction-count-oa.AssemblyInfo.cs
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/integer-reduction-count-oa/obj/Debug/netcoreapp2.0/integer-reduction-count-oa.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/integer-reduction-count-oa/obj/Debug/netcoreapp2.0/integer-reduction-count-oa.pdb

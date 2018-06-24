@@ -1,0 +1,11 @@
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/matrix-01/bin/Debug/netcoreapp2.0/matrix-01.deps.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/matrix-01/bin/Debug/netcoreapp2.0/matrix-01.runtimeconfig.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/matrix-01/bin/Debug/netcoreapp2.0/matrix-01.runtimeconfig.dev.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/matrix-01/bin/Debug/netcoreapp2.0/matrix-01.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/matrix-01/bin/Debug/netcoreapp2.0/matrix-01.pdb
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/matrix-01/obj/Debug/netcoreapp2.0/matrix-01.csprojResolveAssemblyReference.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/matrix-01/obj/Debug/netcoreapp2.0/matrix-01.csproj.CoreCompileInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/matrix-01/obj/Debug/netcoreapp2.0/matrix-01.AssemblyInfoInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/matrix-01/obj/Debug/netcoreapp2.0/matrix-01.AssemblyInfo.cs
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/matrix-01/obj/Debug/netcoreapp2.0/matrix-01.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/matrix-01/obj/Debug/netcoreapp2.0/matrix-01.pdb

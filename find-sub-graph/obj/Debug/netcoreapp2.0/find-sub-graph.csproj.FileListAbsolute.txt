@@ -8,3 +8,4 @@
 /Users/qianli/Documents/VsProjects/Algorithms-From-PPT/find-sub-graph/obj/Debug/netcoreapp2.0/find-sub-graph.AssemblyInfo.cs
 /Users/qianli/Documents/VsProjects/Algorithms-From-PPT/find-sub-graph/obj/Debug/netcoreapp2.0/find-sub-graph.dll
 /Users/qianli/Documents/VsProjects/Algorithms-From-PPT/find-sub-graph/obj/Debug/netcoreapp2.0/find-sub-graph.pdb
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/find-sub-graph/obj/Debug/netcoreapp2.0/find-sub-graph.csprojResolveAssemblyReference.cache
