@@ -1,0 +1,11 @@
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/binary-tree-right-side-view/bin/Debug/netcoreapp2.0/binary-tree-right-side-view.deps.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/binary-tree-right-side-view/bin/Debug/netcoreapp2.0/binary-tree-right-side-view.runtimeconfig.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/binary-tree-right-side-view/bin/Debug/netcoreapp2.0/binary-tree-right-side-view.runtimeconfig.dev.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/binary-tree-right-side-view/bin/Debug/netcoreapp2.0/binary-tree-right-side-view.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/binary-tree-right-side-view/bin/Debug/netcoreapp2.0/binary-tree-right-side-view.pdb
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/binary-tree-right-side-view/obj/Debug/netcoreapp2.0/binary-tree-right-side-view.csprojResolveAssemblyReference.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/binary-tree-right-side-view/obj/Debug/netcoreapp2.0/binary-tree-right-side-view.csproj.CoreCompileInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/binary-tree-right-side-view/obj/Debug/netcoreapp2.0/binary-tree-right-side-view.AssemblyInfoInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/binary-tree-right-side-view/obj/Debug/netcoreapp2.0/binary-tree-right-side-view.AssemblyInfo.cs
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/binary-tree-right-side-view/obj/Debug/netcoreapp2.0/binary-tree-right-side-view.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/binary-tree-right-side-view/obj/Debug/netcoreapp2.0/binary-tree-right-side-view.pdb

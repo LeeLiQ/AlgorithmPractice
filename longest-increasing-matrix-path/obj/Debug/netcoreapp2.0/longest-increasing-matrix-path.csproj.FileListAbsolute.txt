@@ -1,0 +1,11 @@
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/longest-increasing-matrix-path/bin/Debug/netcoreapp2.0/longest-increasing-matrix-path.deps.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/longest-increasing-matrix-path/bin/Debug/netcoreapp2.0/longest-increasing-matrix-path.runtimeconfig.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/longest-increasing-matrix-path/bin/Debug/netcoreapp2.0/longest-increasing-matrix-path.runtimeconfig.dev.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/longest-increasing-matrix-path/bin/Debug/netcoreapp2.0/longest-increasing-matrix-path.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/longest-increasing-matrix-path/bin/Debug/netcoreapp2.0/longest-increasing-matrix-path.pdb
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/longest-increasing-matrix-path/obj/Debug/netcoreapp2.0/longest-increasing-matrix-path.csprojResolveAssemblyReference.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/longest-increasing-matrix-path/obj/Debug/netcoreapp2.0/longest-increasing-matrix-path.csproj.CoreCompileInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/longest-increasing-matrix-path/obj/Debug/netcoreapp2.0/longest-increasing-matrix-path.AssemblyInfoInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/longest-increasing-matrix-path/obj/Debug/netcoreapp2.0/longest-increasing-matrix-path.AssemblyInfo.cs
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/longest-increasing-matrix-path/obj/Debug/netcoreapp2.0/longest-increasing-matrix-path.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/longest-increasing-matrix-path/obj/Debug/netcoreapp2.0/longest-increasing-matrix-path.pdb
