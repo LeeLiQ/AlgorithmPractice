@@ -1,0 +1,11 @@
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/max-area-island/bin/Debug/netcoreapp2.0/max-area-island.deps.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/max-area-island/bin/Debug/netcoreapp2.0/max-area-island.runtimeconfig.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/max-area-island/bin/Debug/netcoreapp2.0/max-area-island.runtimeconfig.dev.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/max-area-island/bin/Debug/netcoreapp2.0/max-area-island.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/max-area-island/bin/Debug/netcoreapp2.0/max-area-island.pdb
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/max-area-island/obj/Debug/netcoreapp2.0/max-area-island.csprojResolveAssemblyReference.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/max-area-island/obj/Debug/netcoreapp2.0/max-area-island.csproj.CoreCompileInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/max-area-island/obj/Debug/netcoreapp2.0/max-area-island.AssemblyInfoInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/max-area-island/obj/Debug/netcoreapp2.0/max-area-island.AssemblyInfo.cs
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/max-area-island/obj/Debug/netcoreapp2.0/max-area-island.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/max-area-island/obj/Debug/netcoreapp2.0/max-area-island.pdb
