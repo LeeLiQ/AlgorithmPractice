@@ -1,0 +1,11 @@
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/class-schedule-2/bin/Debug/netcoreapp2.0/class-schedule-2.deps.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/class-schedule-2/bin/Debug/netcoreapp2.0/class-schedule-2.runtimeconfig.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/class-schedule-2/bin/Debug/netcoreapp2.0/class-schedule-2.runtimeconfig.dev.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/class-schedule-2/bin/Debug/netcoreapp2.0/class-schedule-2.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/class-schedule-2/bin/Debug/netcoreapp2.0/class-schedule-2.pdb
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/class-schedule-2/obj/Debug/netcoreapp2.0/class-schedule-2.csprojResolveAssemblyReference.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/class-schedule-2/obj/Debug/netcoreapp2.0/class-schedule-2.csproj.CoreCompileInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/class-schedule-2/obj/Debug/netcoreapp2.0/class-schedule-2.AssemblyInfoInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/class-schedule-2/obj/Debug/netcoreapp2.0/class-schedule-2.AssemblyInfo.cs
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/class-schedule-2/obj/Debug/netcoreapp2.0/class-schedule-2.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/class-schedule-2/obj/Debug/netcoreapp2.0/class-schedule-2.pdb

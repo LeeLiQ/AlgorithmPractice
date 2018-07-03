@@ -1,0 +1,11 @@
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/increasing-subsequences-dfs/bin/Debug/netcoreapp2.0/increasing-subsequences-dfs.deps.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/increasing-subsequences-dfs/bin/Debug/netcoreapp2.0/increasing-subsequences-dfs.runtimeconfig.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/increasing-subsequences-dfs/bin/Debug/netcoreapp2.0/increasing-subsequences-dfs.runtimeconfig.dev.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/increasing-subsequences-dfs/bin/Debug/netcoreapp2.0/increasing-subsequences-dfs.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/increasing-subsequences-dfs/bin/Debug/netcoreapp2.0/increasing-subsequences-dfs.pdb
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/increasing-subsequences-dfs/obj/Debug/netcoreapp2.0/increasing-subsequences-dfs.csprojResolveAssemblyReference.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/increasing-subsequences-dfs/obj/Debug/netcoreapp2.0/increasing-subsequences-dfs.csproj.CoreCompileInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/increasing-subsequences-dfs/obj/Debug/netcoreapp2.0/increasing-subsequences-dfs.AssemblyInfoInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/increasing-subsequences-dfs/obj/Debug/netcoreapp2.0/increasing-subsequences-dfs.AssemblyInfo.cs
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/increasing-subsequences-dfs/obj/Debug/netcoreapp2.0/increasing-subsequences-dfs.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/increasing-subsequences-dfs/obj/Debug/netcoreapp2.0/increasing-subsequences-dfs.pdb

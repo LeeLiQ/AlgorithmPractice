@@ -1,0 +1,11 @@
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/surrounded-regions/bin/Debug/netcoreapp2.0/surrounded-regions.deps.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/surrounded-regions/bin/Debug/netcoreapp2.0/surrounded-regions.runtimeconfig.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/surrounded-regions/bin/Debug/netcoreapp2.0/surrounded-regions.runtimeconfig.dev.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/surrounded-regions/bin/Debug/netcoreapp2.0/surrounded-regions.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/surrounded-regions/bin/Debug/netcoreapp2.0/surrounded-regions.pdb
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/surrounded-regions/obj/Debug/netcoreapp2.0/surrounded-regions.csprojResolveAssemblyReference.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/surrounded-regions/obj/Debug/netcoreapp2.0/surrounded-regions.csproj.CoreCompileInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/surrounded-regions/obj/Debug/netcoreapp2.0/surrounded-regions.AssemblyInfoInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/surrounded-regions/obj/Debug/netcoreapp2.0/surrounded-regions.AssemblyInfo.cs
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/surrounded-regions/obj/Debug/netcoreapp2.0/surrounded-regions.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/surrounded-regions/obj/Debug/netcoreapp2.0/surrounded-regions.pdb
