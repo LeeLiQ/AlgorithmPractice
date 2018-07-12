@@ -1,0 +1,11 @@
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/coin-change-2/bin/Debug/netcoreapp2.0/coin-change-2.deps.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/coin-change-2/bin/Debug/netcoreapp2.0/coin-change-2.runtimeconfig.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/coin-change-2/bin/Debug/netcoreapp2.0/coin-change-2.runtimeconfig.dev.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/coin-change-2/bin/Debug/netcoreapp2.0/coin-change-2.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/coin-change-2/bin/Debug/netcoreapp2.0/coin-change-2.pdb
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/coin-change-2/obj/Debug/netcoreapp2.0/coin-change-2.csprojResolveAssemblyReference.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/coin-change-2/obj/Debug/netcoreapp2.0/coin-change-2.csproj.CoreCompileInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/coin-change-2/obj/Debug/netcoreapp2.0/coin-change-2.AssemblyInfoInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/coin-change-2/obj/Debug/netcoreapp2.0/coin-change-2.AssemblyInfo.cs
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/coin-change-2/obj/Debug/netcoreapp2.0/coin-change-2.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/coin-change-2/obj/Debug/netcoreapp2.0/coin-change-2.pdb
