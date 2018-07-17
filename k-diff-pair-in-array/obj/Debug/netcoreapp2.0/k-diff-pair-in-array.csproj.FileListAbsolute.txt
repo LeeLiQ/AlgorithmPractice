@@ -1,0 +1,11 @@
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/k-diff-pair-in-array/bin/Debug/netcoreapp2.0/k-diff-pair-in-array.deps.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/k-diff-pair-in-array/bin/Debug/netcoreapp2.0/k-diff-pair-in-array.runtimeconfig.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/k-diff-pair-in-array/bin/Debug/netcoreapp2.0/k-diff-pair-in-array.runtimeconfig.dev.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/k-diff-pair-in-array/bin/Debug/netcoreapp2.0/k-diff-pair-in-array.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/k-diff-pair-in-array/bin/Debug/netcoreapp2.0/k-diff-pair-in-array.pdb
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/k-diff-pair-in-array/obj/Debug/netcoreapp2.0/k-diff-pair-in-array.csprojResolveAssemblyReference.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/k-diff-pair-in-array/obj/Debug/netcoreapp2.0/k-diff-pair-in-array.csproj.CoreCompileInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/k-diff-pair-in-array/obj/Debug/netcoreapp2.0/k-diff-pair-in-array.AssemblyInfoInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/k-diff-pair-in-array/obj/Debug/netcoreapp2.0/k-diff-pair-in-array.AssemblyInfo.cs
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/k-diff-pair-in-array/obj/Debug/netcoreapp2.0/k-diff-pair-in-array.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/k-diff-pair-in-array/obj/Debug/netcoreapp2.0/k-diff-pair-in-array.pdb
