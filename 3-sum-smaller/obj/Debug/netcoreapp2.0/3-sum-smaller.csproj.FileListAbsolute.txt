@@ -1,0 +1,11 @@
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/3-sum-smaller/bin/Debug/netcoreapp2.0/3-sum-smaller.deps.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/3-sum-smaller/bin/Debug/netcoreapp2.0/3-sum-smaller.runtimeconfig.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/3-sum-smaller/bin/Debug/netcoreapp2.0/3-sum-smaller.runtimeconfig.dev.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/3-sum-smaller/bin/Debug/netcoreapp2.0/3-sum-smaller.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/3-sum-smaller/bin/Debug/netcoreapp2.0/3-sum-smaller.pdb
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/3-sum-smaller/obj/Debug/netcoreapp2.0/3-sum-smaller.csprojResolveAssemblyReference.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/3-sum-smaller/obj/Debug/netcoreapp2.0/3-sum-smaller.csproj.CoreCompileInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/3-sum-smaller/obj/Debug/netcoreapp2.0/3-sum-smaller.AssemblyInfoInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/3-sum-smaller/obj/Debug/netcoreapp2.0/3-sum-smaller.AssemblyInfo.cs
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/3-sum-smaller/obj/Debug/netcoreapp2.0/3-sum-smaller.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/3-sum-smaller/obj/Debug/netcoreapp2.0/3-sum-smaller.pdb
