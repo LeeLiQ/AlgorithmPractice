@@ -1,0 +1,11 @@
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/reverse-string-recursive/bin/Debug/netcoreapp2.0/reverse-string-recursive.deps.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/reverse-string-recursive/bin/Debug/netcoreapp2.0/reverse-string-recursive.runtimeconfig.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/reverse-string-recursive/bin/Debug/netcoreapp2.0/reverse-string-recursive.runtimeconfig.dev.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/reverse-string-recursive/bin/Debug/netcoreapp2.0/reverse-string-recursive.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/reverse-string-recursive/bin/Debug/netcoreapp2.0/reverse-string-recursive.pdb
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/reverse-string-recursive/obj/Debug/netcoreapp2.0/reverse-string-recursive.csprojResolveAssemblyReference.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/reverse-string-recursive/obj/Debug/netcoreapp2.0/reverse-string-recursive.csproj.CoreCompileInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/reverse-string-recursive/obj/Debug/netcoreapp2.0/reverse-string-recursive.AssemblyInfoInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/reverse-string-recursive/obj/Debug/netcoreapp2.0/reverse-string-recursive.AssemblyInfo.cs
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/reverse-string-recursive/obj/Debug/netcoreapp2.0/reverse-string-recursive.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/reverse-string-recursive/obj/Debug/netcoreapp2.0/reverse-string-recursive.pdb
