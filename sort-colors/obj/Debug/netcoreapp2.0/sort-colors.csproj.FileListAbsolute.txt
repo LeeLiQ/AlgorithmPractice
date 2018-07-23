@@ -1,0 +1,11 @@
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/sort-colors/bin/Debug/netcoreapp2.0/sort-colors.deps.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/sort-colors/bin/Debug/netcoreapp2.0/sort-colors.runtimeconfig.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/sort-colors/bin/Debug/netcoreapp2.0/sort-colors.runtimeconfig.dev.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/sort-colors/bin/Debug/netcoreapp2.0/sort-colors.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/sort-colors/bin/Debug/netcoreapp2.0/sort-colors.pdb
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/sort-colors/obj/Debug/netcoreapp2.0/sort-colors.csprojResolveAssemblyReference.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/sort-colors/obj/Debug/netcoreapp2.0/sort-colors.csproj.CoreCompileInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/sort-colors/obj/Debug/netcoreapp2.0/sort-colors.AssemblyInfoInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/sort-colors/obj/Debug/netcoreapp2.0/sort-colors.AssemblyInfo.cs
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/sort-colors/obj/Debug/netcoreapp2.0/sort-colors.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/sort-colors/obj/Debug/netcoreapp2.0/sort-colors.pdb

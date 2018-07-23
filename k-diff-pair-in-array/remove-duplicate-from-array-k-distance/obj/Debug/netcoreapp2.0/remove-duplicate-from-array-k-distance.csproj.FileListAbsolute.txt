@@ -1,0 +1,11 @@
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/k-diff-pair-in-array/remove-duplicate-from-array-k-distance/bin/Debug/netcoreapp2.0/remove-duplicate-from-array-k-distance.deps.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/k-diff-pair-in-array/remove-duplicate-from-array-k-distance/bin/Debug/netcoreapp2.0/remove-duplicate-from-array-k-distance.runtimeconfig.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/k-diff-pair-in-array/remove-duplicate-from-array-k-distance/bin/Debug/netcoreapp2.0/remove-duplicate-from-array-k-distance.runtimeconfig.dev.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/k-diff-pair-in-array/remove-duplicate-from-array-k-distance/bin/Debug/netcoreapp2.0/remove-duplicate-from-array-k-distance.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/k-diff-pair-in-array/remove-duplicate-from-array-k-distance/bin/Debug/netcoreapp2.0/remove-duplicate-from-array-k-distance.pdb
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/k-diff-pair-in-array/remove-duplicate-from-array-k-distance/obj/Debug/netcoreapp2.0/remove-duplicate-from-array-k-distance.csprojResolveAssemblyReference.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/k-diff-pair-in-array/remove-duplicate-from-array-k-distance/obj/Debug/netcoreapp2.0/remove-duplicate-from-array-k-distance.csproj.CoreCompileInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/k-diff-pair-in-array/remove-duplicate-from-array-k-distance/obj/Debug/netcoreapp2.0/remove-duplicate-from-array-k-distance.AssemblyInfoInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/k-diff-pair-in-array/remove-duplicate-from-array-k-distance/obj/Debug/netcoreapp2.0/remove-duplicate-from-array-k-distance.AssemblyInfo.cs
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/k-diff-pair-in-array/remove-duplicate-from-array-k-distance/obj/Debug/netcoreapp2.0/remove-duplicate-from-array-k-distance.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/k-diff-pair-in-array/remove-duplicate-from-array-k-distance/obj/Debug/netcoreapp2.0/remove-duplicate-from-array-k-distance.pdb
