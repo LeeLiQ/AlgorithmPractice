@@ -1,0 +1,11 @@
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/minimum-window-substr/bin/Debug/netcoreapp2.0/minimum-window-substr.deps.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/minimum-window-substr/bin/Debug/netcoreapp2.0/minimum-window-substr.runtimeconfig.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/minimum-window-substr/bin/Debug/netcoreapp2.0/minimum-window-substr.runtimeconfig.dev.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/minimum-window-substr/bin/Debug/netcoreapp2.0/minimum-window-substr.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/minimum-window-substr/bin/Debug/netcoreapp2.0/minimum-window-substr.pdb
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/minimum-window-substr/obj/Debug/netcoreapp2.0/minimum-window-substr.csprojResolveAssemblyReference.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/minimum-window-substr/obj/Debug/netcoreapp2.0/minimum-window-substr.csproj.CoreCompileInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/minimum-window-substr/obj/Debug/netcoreapp2.0/minimum-window-substr.AssemblyInfoInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/minimum-window-substr/obj/Debug/netcoreapp2.0/minimum-window-substr.AssemblyInfo.cs
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/minimum-window-substr/obj/Debug/netcoreapp2.0/minimum-window-substr.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/minimum-window-substr/obj/Debug/netcoreapp2.0/minimum-window-substr.pdb

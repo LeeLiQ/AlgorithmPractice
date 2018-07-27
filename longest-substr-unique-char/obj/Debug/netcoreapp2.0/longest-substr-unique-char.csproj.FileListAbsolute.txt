@@ -1,0 +1,11 @@
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/longest-substr-unique-char/bin/Debug/netcoreapp2.0/longest-substr-unique-char.deps.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/longest-substr-unique-char/bin/Debug/netcoreapp2.0/longest-substr-unique-char.runtimeconfig.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/longest-substr-unique-char/bin/Debug/netcoreapp2.0/longest-substr-unique-char.runtimeconfig.dev.json
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/longest-substr-unique-char/bin/Debug/netcoreapp2.0/longest-substr-unique-char.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/longest-substr-unique-char/bin/Debug/netcoreapp2.0/longest-substr-unique-char.pdb
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/longest-substr-unique-char/obj/Debug/netcoreapp2.0/longest-substr-unique-char.csprojResolveAssemblyReference.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/longest-substr-unique-char/obj/Debug/netcoreapp2.0/longest-substr-unique-char.csproj.CoreCompileInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/longest-substr-unique-char/obj/Debug/netcoreapp2.0/longest-substr-unique-char.AssemblyInfoInputs.cache
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/longest-substr-unique-char/obj/Debug/netcoreapp2.0/longest-substr-unique-char.AssemblyInfo.cs
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/longest-substr-unique-char/obj/Debug/netcoreapp2.0/longest-substr-unique-char.dll
+/Users/qianli/Documents/VsProjects/Algorithms-From-PPT/longest-substr-unique-char/obj/Debug/netcoreapp2.0/longest-substr-unique-char.pdb

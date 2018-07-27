@@ -1,0 +1,15 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+                "${workspaceFolder}/longest_substr_at_most_2_distinct_char.csproj"
+            ],
+            "problemMatcher": "$msCompile"
+        }
+    ]
+}
